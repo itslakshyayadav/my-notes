@@ -18,15 +18,15 @@ function App() {
   const [isopen, setIsopen] = useState(false);
   const [backgroundColor, setBackgroundColor] = useState();
   const [backgroundOptions] = useState([
-    "#3CB371",
-    "#7B68EE",
-    "#87CEFA",
-    "#B8860B",
-    "#B22222",
-    "#a0aec0",
-    "#FFA07A",
-    "#800000",
-    "#808000",
+    "#77172E",
+    "#692B17",
+    "#7C4A03",
+    "#264D3B",
+    "#0C625D",
+    "#256377",
+    "#284255",
+    "#6C394F",
+    "#4B443A",
   ]);
 
   const setBackground = () => {
